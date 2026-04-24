@@ -85,7 +85,7 @@ If you wish to retrain the models with your own local dataset or utilize the ada
 ## Contributing
 
 Contributions, issues, and feature requests are welcome! 
-
+Feel free to check the https://github.com/Hardik006-ds/Truth_shield/issues. 
 ## License
 
 This project is open-source and available under the terms of the MIT License.
