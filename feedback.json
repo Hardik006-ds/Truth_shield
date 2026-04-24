@@ -1,0 +1,130 @@
+{
+  "correct": [
+    {
+      "content_type": "image",
+      "predicted_score": 0.7,
+      "predicted_verdict": "Likely Real",
+      "was_correct": true
+    },
+    {
+      "content_type": "image",
+      "predicted_score": 0.2,
+      "predicted_verdict": "Likely Real",
+      "was_correct": true
+    },
+    {
+      "content_type": "image",
+      "predicted_score": 9.8,
+      "predicted_verdict": "Almost Certainly AI Generated",
+      "was_correct": true
+    },
+    {
+      "content_type": "image",
+      "predicted_score": 2.7,
+      "predicted_verdict": "Likely Real",
+      "was_correct": true
+    },
+    {
+      "content_type": "image",
+      "predicted_score": 3.7,
+      "predicted_verdict": "Possibly Real",
+      "was_correct": true
+    },
+    {
+      "content_type": "image",
+      "predicted_score": 3.7,
+      "predicted_verdict": "Possibly Real",
+      "was_correct": true
+    },
+    {
+      "content_type": "text",
+      "predicted_score": 7.0,
+      "predicted_verdict": "Likely AI Generated",
+      "was_correct": true
+    },
+    {
+      "content_type": "text",
+      "predicted_score": 1.1,
+      "predicted_verdict": "Likely Human Written",
+      "was_correct": true
+    },
+    {
+      "content_type": "image",
+      "predicted_score": 0.0,
+      "predicted_verdict": "Likely Real",
+      "was_correct": true
+    },
+    {
+      "content_type": "image",
+      "predicted_score": 5.9,
+      "predicted_verdict": "Likely AI Generated",
+      "was_correct": true
+    },
+    {
+      "content_type": "image",
+      "predicted_score": 9.8,
+      "predicted_verdict": "Almost Certainly AI Generated",
+      "was_correct": true
+    },
+    {
+      "timestamp": "2026-04-16 11:16:16.109597",
+      "content_type": "image",
+      "predicted_score": 2.4,
+      "predicted_verdict": "Likely Authentic",
+      "was_correct": true,
+      "feedback_id": "190ff6ad"
+    },
+    {
+      "timestamp": "2026-04-16 11:58:35.539157",
+      "content_type": "image",
+      "predicted_score": 2.7,
+      "predicted_verdict": "Likely Real",
+      "was_correct": true,
+      "id": "251eed92"
+    }
+  ],
+  "incorrect": [
+    {
+      "content_type": "image",
+      "predicted_score": 8.1,
+      "predicted_verdict": "Almost Certainly AI Generated",
+      "was_correct": false
+    },
+    {
+      "content_type": "image",
+      "predicted_score": 8.1,
+      "predicted_verdict": "Almost Certainly AI Generated",
+      "was_correct": false
+    },
+    {
+      "content_type": "image",
+      "predicted_score": 8.1,
+      "predicted_verdict": "Almost Certainly AI Generated",
+      "was_correct": false
+    },
+    {
+      "content_type": "image",
+      "predicted_score": 9.4,
+      "predicted_verdict": "Almost Certainly AI Generated",
+      "was_correct": false
+    },
+    {
+      "content_type": "text",
+      "predicted_score": 7.5,
+      "predicted_verdict": "Almost Certainly AI Generated",
+      "was_correct": false
+    },
+    {
+      "content_type": "image",
+      "predicted_score": 5.0,
+      "predicted_verdict": "Likely AI Generated",
+      "was_correct": false
+    },
+    {
+      "content_type": "image",
+      "predicted_score": 5.0,
+      "predicted_verdict": "Likely AI Generated",
+      "was_correct": false
+    }
+  ]
+}
